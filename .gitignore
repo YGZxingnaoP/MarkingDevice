@@ -2,4 +2,4 @@
 .vs/
 runtime/
 .git/
-.env/
+env/
